@@ -2,4 +2,4 @@
 
 Can you iframe in a markdown doc on github?
 
-<iframe src="www.google.com"></iframe>
+<iframe src="google.com"></iframe>
